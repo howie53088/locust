@@ -1,3 +1,5 @@
+#coding=utf8
+# Author: EricLiu
 from locust import HttpLocust, TaskSet, task
 
 def index(l):
